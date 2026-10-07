@@ -8,9 +8,7 @@ A Programming enthusiast who loves to learn and create projects about web and ma
 
 ### Github Statistics
 <p align="left">
-  <a href="https://github.com/penuliscode">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remunata&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remunata&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </p>
 
 ### Reach me on
